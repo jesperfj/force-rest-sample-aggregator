@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.example</groupId>
     <version>1.0-SNAPSHOT</version>
-    <artifactId>force-rest-aggregator</artifactId>
+    <artifactId>force-rest-sample-aggregator</artifactId>
     <packaging>pom</packaging>
     <modules>
         <module>java-sdk/codegen</module>
