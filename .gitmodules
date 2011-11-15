@@ -1,6 +1,3 @@
-[submodule "force-rest-jetty-sample"]
-	path = force-rest-jetty-sample
-	url = git@github.com:jesperfj/force-rest-jetty-sample.git
 [submodule "force-rest-api"]
 	path = force-rest-api
 	url = git@github.com:jesperfj/force-rest-api.git
