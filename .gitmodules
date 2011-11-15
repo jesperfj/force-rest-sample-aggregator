@@ -7,3 +7,6 @@
 [submodule "maven-force-plugin"]
 	path = maven-force-plugin
 	url = git@github.com:jesperfj/maven-force-plugin.git
+[submodule "force-rest-jetty-sample"]
+	path = force-rest-jetty-sample
+	url = https://github.com/jesperfj/force-rest-jetty-sample.git
