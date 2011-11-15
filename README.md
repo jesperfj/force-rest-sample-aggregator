@@ -15,12 +15,5 @@ Build without running tests:
 
 ## How to run
 
-Now set your Force.com username and password in environment variables:
+See [README in force-rest-jetty-sample](https://github.com/jesperfj/force-rest-jetty-sample)
 
-    $ export FORCE_USERNAME=john@doe.com
-    $ export FORCE_PASSWORD=secretpassword
-
-Now you can run the app from the `force-rest-jetty-sample` directory:
-
-    $ cd force-rest-jetty-sample
-    $ foreman start
