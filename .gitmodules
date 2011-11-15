@@ -1,0 +1,12 @@
+[submodule "force-rest-jetty-sample"]
+	path = force-rest-jetty-sample
+	url = git@github.com:jesperfj/force-rest-jetty-sample.git
+[submodule "force-rest-api"]
+	path = force-rest-api
+	url = git@github.com:jesperfj/force-rest-api.git
+[submodule "java-sdk"]
+	path = java-sdk
+	url = git@github.com:jesperfj/java-sdk.git
+[submodule "maven-force-plugin"]
+	path = maven-force-plugin
+	url = git@github.com:jesperfj/maven-force-plugin.git
